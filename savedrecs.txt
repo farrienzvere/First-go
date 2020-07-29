@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hafsa, F
+   Zaman, S
+   Mahmood, AU
+   Qureshi, IH
+AF Hafsa, Fatima
+   Zaman, Shahidah
+   Mahmood, Asad Ullah
+   Qureshi, Irshad Hussain
+TI Frequency of Asymptomatic Myocardial Ischemia in Type 2 Diabetic
+   Patients with Microalbuminuria
+SO PAKISTAN JOURNAL OF MEDICAL & HEALTH SCIENCES
+LA English
+DT Article
+DE Myocardial Ischemia; Asymptomatic; Type 2 Diabetic; Microalbuminuria
+ID CORONARY-ARTERY-DISEASE; RISK-FACTORS; INFARCTION; EVENTS
+AB Background: Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin, or when the body cannot effectively use the insulin it produces. Silent (asymptomatic) myocardial ischemia is the most common manifestation of coronary heart disease (CHD).
+   Aim: To determine the frequency of silent MI in asymptomatic Type 2 diabetic patients with microalbuminuria.
+   Method: The present cross sectional study was conducted at Diabetes Clinic and Medical OPD of our hospital. Non-probability purposive sampling technique was used. A total of 325 Patients of both genders with age between 30 - 60 years were included. Informed consent was taken from each patient fulfilling the inclusion and diagnostic criteria mentioned in operational definition and were ensured of complete confidentiality.
+   Results: Mean age of the patients was 49.92 +/- 5.55 years; there were 60.3% males whereas 39.7% were females. Mean duration of diabetes in the patients was 10.04 +/- 4.61 years. The Silent Myocardial Ischemia was found in 146 (44.9%) patients detected by ETT. Statistically significant difference was found between silent MI and age of the patients (P value=0.006). Similarly significant difference was observed between silent MI and duration of diabetes
+   Conclusion: It was observed that the frequency of Silent Myocardial Ischemia in diabetic patients is high. Screening for cardiac conditions in such patients should be done keeping in view the higher prevalence.
+C1 [Hafsa, Fatima] Mayo Hosp, KEMU, East Med Ward, Lahore, Pakistan.
+   Lahore Gen Hosp, Lahore, Pakistan.
+   Mayo Hosp, KEMU, Med, Lahore, Pakistan.
+RP Hafsa, F (corresponding author), Mayo Hosp, KEMU, East Med Ward, Lahore, Pakistan.
+EM hafsaf.hamza@gmail.com
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LAHORE MEDICAL & DENTAL COLL
+PI LAHORE
+PA CANAL BANK N, TULSPURA, LAHORE, 00000, PAKISTAN
+SN 1996-7195
+J9 PAK J MED HEALTH SCI
+JI Pak. J. Med. Health Sci.
+PD JAN-MAR
+PY 2020
+VL 14
+IS 1
+BP 567
+EP 570
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA LM8FM
+UT WOS:000532483500147
+DA 2020-07-23
+ER
+
+EF
